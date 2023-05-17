@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey there!<br>
+Hey there!👋<br>
 I'm Shai Matzliach, a highly motivated and skilled Software Engineering student passionate about creating innovative solutions.
 <br>With a strong work ethic and an open mind, I'm always ready to take on new challenges. 😊
 <br><br>🖥️ Developed a Java application using Swing for a class project, showcasing proficiency in GUI development.
