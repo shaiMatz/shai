@@ -20,6 +20,7 @@ Here are a few of my notable projects:
 Languages
 
 🇺🇸 English – fluent
+
 🇮🇱 Hebrew - native
 
 Feel free to connect with me on LinkedIn to learn more about my professional journey. Let's collaborate and create something amazing together! 🤝😄
